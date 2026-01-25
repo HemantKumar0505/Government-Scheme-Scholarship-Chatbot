@@ -1,0 +1,674 @@
+[
+  {
+    "scheme_id": "SCH001",
+    "scheme_name": "National Scholarship for Undergraduate Students",
+    "scheme_level": "Central",
+    "state": "All",
+    "description": "The National Scholarship for Undergraduate Students is a central government initiative aimed at supporting meritorious students from economically weaker sections. The scheme helps students continue their undergraduate education by providing financial assistance for tuition fees and academic expenses.",
+    "min_age": 18,
+    "max_age": 22,
+    "education_level": "Undergraduate",
+    "eligible_gender": ["Male", "Female", "Other"],
+    "benefits": "₹50,000 per year for tuition and academic expenses",
+    "how_to_apply": "Apply online through the National Scholarship Portal",
+    "documents_required": [
+      "Aadhaar Card",
+      "Previous Year Marksheet",
+      "Income Certificate",
+      "Bank Account Details"
+    ],
+    "last_date": "2026-03-31"
+  },
+  {
+    "scheme_id": "SCH002",
+    "scheme_name": "Post-Matric Scholarship for SC Students",
+    "scheme_level": "Central",
+    "state": "All",
+    "description": "The Post-Matric Scholarship for SC Students is designed to encourage students from Scheduled Caste communities to pursue higher education after matriculation. The scheme covers tuition fees and provides a maintenance allowance to reduce financial barriers to education.",
+    "min_age": 16,
+    "max_age": 25,
+    "education_level": "Postgraduate",
+    "eligible_gender": ["Male", "Female", "Other"],
+    "benefits": "Full tuition fee reimbursement and maintenance allowance",
+    "how_to_apply": "Apply via the National Scholarship Portal",
+    "documents_required": [
+      "Caste Certificate",
+      "Income Certificate",
+      "Aadhaar Card",
+      "Admission Proof"
+    ],
+    "last_date": "2026-02-28"
+  },
+  {
+    "scheme_id": "SCH003",
+    "scheme_name": "Maharashtra State Scholarship for Girl Students",
+    "scheme_level": "State",
+    "state": "Maharashtra",
+    "description": "This Maharashtra state scholarship is aimed at encouraging higher education among girl students. The scheme provides financial assistance to eligible undergraduate students to support their academic journey and reduce dropout rates.",
+    "min_age": 18,
+    "max_age": 25,
+    "education_level": "Undergraduate",
+    "eligible_gender": ["Female"],
+    "benefits": "₹30,000 per year",
+    "how_to_apply": "Apply through Maharashtra State Scholarship Portal",
+    "documents_required": [
+      "Domicile Certificate",
+      "Income Certificate",
+      "Aadhaar Card",
+      "College Bonafide Certificate"
+    ],
+    "last_date": "2026-01-31"
+  },
+    {
+    "scheme_id": "SCH004",
+    "scheme_name": "Pre-Matric Scholarship for School Students",
+    "scheme_level": "Central",
+    "state": "All",
+    "description": "The Pre-Matric Scholarship is a central government scheme aimed at supporting school students from economically weaker sections. The scheme encourages students to continue their education by providing financial assistance at the school level.",
+    "min_age": 6,
+    "max_age": 14,
+    "education_level": "School",
+    "eligible_gender": ["Male", "Female", "Other"],
+    "benefits": "Annual scholarship for school education expenses",
+    "how_to_apply": "Apply through the National Scholarship Portal",
+    "documents_required": [
+        "Aadhaar Card",
+        "School Bonafide Certificate",
+        "Income Certificate"
+    ],
+    "last_date": "2026-01-15"
+    },
+    {
+    "scheme_id": "SCH005",
+    "scheme_name": "Merit Scholarship for Higher Secondary Students",
+    "scheme_level": "Central",
+    "state": "All",
+    "description": "This merit-based scholarship supports students studying in classes 11 and 12 who have shown strong academic performance. The scheme aims to reduce dropout rates after secondary education.",
+    "min_age": 15,
+    "max_age": 18,
+    "education_level": "Higher Secondary",
+    "eligible_gender": ["Male", "Female", "Other"],
+    "benefits": "₹20,000 per year",
+    "how_to_apply": "Apply online through the official scholarship portal",
+    "documents_required": [
+        "Previous Class Marksheet",
+        "Income Certificate",
+        "Aadhaar Card"
+    ],
+    "last_date": "2026-02-10"
+    },
+    {
+    "scheme_id": "SCH006",
+    "scheme_name": "Skill Development Scholarship for Diploma Students",
+    "scheme_level": "Central",
+    "state": "All",
+    "description": "This scholarship supports diploma students enrolled in technical and vocational programs. The scheme focuses on skill development and employability among youth.",
+    "min_age": 17,
+    "max_age": 21,
+    "education_level": "Diploma",
+    "eligible_gender": ["Male", "Female", "Other"],
+    "benefits": "₹25,000 per year",
+    "how_to_apply": "Apply via the Skill Development Portal",
+    "documents_required": [
+        "Admission Proof",
+        "Marksheet",
+        "Aadhaar Card"
+    ],
+    "last_date": "2026-03-05"
+    },
+    {
+    "scheme_id": "SCH007",
+    "scheme_name": "Minority Scholarship for Undergraduate Students",
+    "scheme_level": "Central",
+    "state": "All",
+    "description": "The Minority Scholarship for Undergraduate Students provides financial assistance to students from minority communities to support their higher education.",
+    "min_age": 18,
+    "max_age": 22,
+    "education_level": "Undergraduate",
+    "eligible_gender": ["Male", "Female", "Other"],
+    "benefits": "₹40,000 per year",
+    "how_to_apply": "Apply through the National Scholarship Portal",
+    "documents_required": [
+        "Minority Certificate",
+        "Income Certificate",
+        "Aadhaar Card"
+    ],
+    "last_date": "2026-02-20"
+    },
+    {
+    "scheme_id": "SCH008",
+    "scheme_name": "Postgraduate Merit Scholarship",
+    "scheme_level": "Central",
+    "state": "All",
+    "description": "This scholarship is intended for postgraduate students who have demonstrated academic excellence. The scheme supports advanced studies and research-oriented education.",
+    "min_age": 21,
+    "max_age": 25,
+    "education_level": "Postgraduate",
+    "eligible_gender": ["Male", "Female", "Other"],
+    "benefits": "₹60,000 per year",
+    "how_to_apply": "Apply online via the scholarship portal",
+    "documents_required": [
+        "Undergraduate Marksheet",
+        "Admission Proof",
+        "Aadhaar Card"
+    ],
+    "last_date": "2026-03-25"
+    },
+    {
+    "scheme_id": "SCH009",
+    "scheme_name": "Tamil Nadu State Scholarship for College Students",
+    "scheme_level": "State",
+    "state": "Tamil Nadu",
+    "description": "This Tamil Nadu state scholarship supports college students pursuing higher education within the state. The scheme aims to promote access to education for deserving students.",
+    "min_age": 18,
+    "max_age": 25,
+    "education_level": "Undergraduate",
+    "eligible_gender": ["Male", "Female", "Other"],
+    "benefits": "₹35,000 per year",
+    "how_to_apply": "Apply through the Tamil Nadu State Scholarship Portal",
+    "documents_required": [
+        "Domicile Certificate",
+        "Income Certificate",
+        "College ID Card"
+    ],
+    "last_date": "2026-01-30"
+    },
+    {
+    "scheme_id": "SCH010",
+    "scheme_name": "Youth Skill Training Allowance Scheme",
+    "scheme_level": "Central",
+    "state": "All",
+    "description": "The Youth Skill Training Allowance Scheme provides financial support to young individuals undergoing skill training programs to enhance employability.",
+    "min_age": 18,
+    "max_age": 29,
+    "education_level": "Skill Training",
+    "eligible_gender": ["Male", "Female", "Other"],
+    "benefits": "Monthly allowance during training period",
+    "how_to_apply": "Apply via the official skill training portal",
+    "documents_required": [
+        "Training Enrollment Proof",
+        "Aadhaar Card"
+    ],
+    "last_date": "2026-04-10"
+    },
+    {
+    "scheme_id": "SCH011",
+    "scheme_name": "Women Empowerment Scholarship for Postgraduate Studies",
+    "scheme_level": "Central",
+    "state": "All",
+    "description": "This scholarship is aimed at empowering women by supporting their postgraduate education. It encourages higher education participation among women students.",
+    "min_age": 21,
+    "max_age": 30,
+    "education_level": "Postgraduate",
+    "eligible_gender": ["Female"],
+    "benefits": "₹70,000 per year",
+    "how_to_apply": "Apply through the National Scholarship Portal",
+    "documents_required": [
+        "Gender Certificate",
+        "Admission Proof",
+        "Aadhaar Card"
+    ],
+    "last_date": "2026-03-15"
+    },
+
+  {
+    "scheme_id": "SCH012",
+    "scheme_name": "Central Sector Scheme of Scholarships for College and University Students",
+    "scheme_level": "Central",
+    "state": "All",
+    "description": "This scheme supports meritorious students from economically weaker sections to pursue higher education after Class 12. It aims to reduce dropout rates and encourage academic excellence.",
+    "min_age": 17,
+    "max_age": 25,
+    "education_level": "Undergraduate",
+    "eligible_gender": ["Male", "Female", "Other"],
+    "benefits": "₹12,000 per year for UG and ₹20,000 per year for PG students",
+    "how_to_apply": "Apply through the National Scholarship Portal",
+    "documents_required": [
+      "Class 12 Marksheet",
+      "Income Certificate",
+      "Aadhaar Card",
+      "Bank Account Details"
+    ],
+    "last_date": "2026-02-28"
+  },
+  {
+    "scheme_id": "SCH013",
+    "scheme_name": "PM Kaushal Vikas Yojana (PMKVY)",
+    "scheme_level": "Central",
+    "state": "All",
+    "description": "PMKVY is a flagship skill development scheme that provides free short-term training and certification to youth to improve employability and industry readiness.",
+    "min_age": 18,
+    "max_age": 45,
+    "education_level": "Skill Training",
+    "eligible_gender": ["Male", "Female", "Other"],
+    "benefits": "Free skill training and government-recognized certification",
+    "how_to_apply": "Register at a nearby PMKVY training center or official portal",
+    "documents_required": [
+      "Aadhaar Card",
+      "Age Proof",
+      "Bank Account Details"
+    ],
+    "last_date": "2026-12-31"
+  },
+  {
+    "scheme_id": "SCH014",
+    "scheme_name": "National Apprenticeship Training Scheme (NATS)",
+    "scheme_level": "Central",
+    "state": "All",
+    "description": "This scheme provides apprenticeship opportunities to diploma and graduate students to gain hands-on industry experience with a monthly stipend.",
+    "min_age": 18,
+    "max_age": 30,
+    "education_level": "Diploma",
+    "eligible_gender": ["Male", "Female", "Other"],
+    "benefits": "Monthly stipend during apprenticeship period",
+    "how_to_apply": "Apply through the NATS portal",
+    "documents_required": [
+      "Diploma Certificate",
+      "Aadhaar Card",
+      "Bank Account Details"
+    ],
+    "last_date": "2026-06-30"
+  },
+  {
+    "scheme_id": "SCH015",
+    "scheme_name": "Stand-Up India Scheme",
+    "scheme_level": "Central",
+    "state": "All",
+    "description": "Stand-Up India promotes entrepreneurship among women and SC/ST candidates by providing bank loans for setting up greenfield enterprises.",
+    "min_age": 18,
+    "max_age": 60,
+    "education_level": "Any",
+    "eligible_gender": ["Female", "Male"],
+    "benefits": "Bank loans from ₹10 lakh to ₹1 crore",
+    "how_to_apply": "Apply through scheduled commercial banks or Stand-Up India portal",
+    "documents_required": [
+      "Identity Proof",
+      "Business Proposal",
+      "Caste or Gender Certificate",
+      "Bank Account Details"
+    ],
+    "last_date": "2026-12-31"
+  },
+  {
+    "scheme_id": "SCH016",
+    "scheme_name": "Pradhan Mantri Employment Generation Programme (PMEGP)",
+    "scheme_level": "Central",
+    "state": "All",
+    "description": "PMEGP is a credit-linked subsidy scheme aimed at generating self-employment opportunities through micro-enterprises in rural and urban areas.",
+    "min_age": 18,
+    "max_age": 55,
+    "education_level": "Any",
+    "eligible_gender": ["Male", "Female", "Other"],
+    "benefits": "Subsidy up to 35% of project cost",
+    "how_to_apply": "Apply through the KVIC or PMEGP online portal",
+    "documents_required": [
+      "Aadhaar Card",
+      "Project Report",
+      "Educational Certificate",
+      "Bank Account Details"
+    ],
+    "last_date": "2026-03-31"
+  },
+  {
+    "scheme_id": "SCH017",
+    "scheme_name": "National Means-cum-Merit Scholarship Scheme (NMMSS)",
+    "scheme_level": "Central",
+    "state": "All",
+    "description": "NMMSS provides financial assistance to meritorious students from economically weaker sections to prevent dropouts at secondary education level.",
+    "min_age": 12,
+    "max_age": 16,
+    "education_level": "School",
+    "eligible_gender": ["Male", "Female", "Other"],
+    "benefits": "₹12,000 per year",
+    "how_to_apply": "Apply through state education department or NSP",
+    "documents_required": [
+      "School Certificate",
+      "Income Certificate",
+      "Aadhaar Card"
+    ],
+    "last_date": "2026-01-31"
+  },
+  {
+    "scheme_id": "SCH018",
+    "scheme_name": "Indira Gandhi National Old Age Pension Scheme",
+    "scheme_level": "Central",
+    "state": "All",
+    "description": "This welfare scheme provides financial support to senior citizens belonging to below poverty line households.",
+    "min_age": 60,
+    "max_age": 100,
+    "education_level": "Any",
+    "eligible_gender": ["Male", "Female", "Other"],
+    "benefits": "Monthly pension support",
+    "how_to_apply": "Apply through local social welfare office",
+    "documents_required": [
+      "Age Proof",
+      "BPL Certificate",
+      "Aadhaar Card"
+    ],
+    "last_date": "2026-12-31"
+  },
+  {
+    "scheme_id": "SCH019",
+    "scheme_name": "Kanya Sumangala Yojana (Uttar Pradesh)",
+    "scheme_level": "State",
+    "state": "Uttar Pradesh",
+    "description": "This scheme promotes the welfare and education of girl children by providing financial assistance at different stages of life.",
+    "min_age": 0,
+    "max_age": 18,
+    "education_level": "School",
+    "eligible_gender": ["Female"],
+    "benefits": "Up to ₹15,000 in multiple installments",
+    "how_to_apply": "Apply through UP government portal",
+    "documents_required": [
+      "Birth Certificate",
+      "Aadhaar Card",
+      "Bank Account Details"
+    ],
+    "last_date": "2026-12-31"
+  },
+  {
+    "scheme_id": "SCH020",
+    "scheme_name": "Mukhyamantri Yuva Swavalamban Yojana (Gujarat)",
+    "scheme_level": "State",
+    "state": "Gujarat",
+    "description": "This scheme provides financial assistance to economically weaker students for higher education to promote self-reliance.",
+    "min_age": 17,
+    "max_age": 25,
+    "education_level": "Undergraduate",
+    "eligible_gender": ["Male", "Female", "Other"],
+    "benefits": "Scholarship and tuition assistance",
+    "how_to_apply": "Apply through Gujarat education portal",
+    "documents_required": [
+      "Income Certificate",
+      "Marksheet",
+      "Aadhaar Card"
+    ],
+    "last_date": "2026-02-15"
+  },
+  {
+    "scheme_id": "SCH021",
+    "scheme_name": "West Bengal Swami Vivekananda Merit-cum-Means Scholarship",
+    "scheme_level": "State",
+    "state": "West Bengal",
+    "description": "This scheme supports meritorious students from economically weaker families pursuing higher secondary, undergraduate, and postgraduate education.",
+    "min_age": 17,
+    "max_age": 25,
+    "education_level": "Undergraduate",
+    "eligible_gender": ["Male", "Female", "Other"],
+    "benefits": "₹12,000 to ₹60,000 per year depending on course",
+    "how_to_apply": "Apply through the West Bengal scholarship portal",
+    "documents_required": [
+      "Income Certificate",
+      "Previous Marksheet",
+      "Aadhaar Card",
+      "Bank Account Details"
+    ],
+    "last_date": "2026-02-28"
+  },
+  {
+    "scheme_id": "SCH022",
+    "scheme_name": "Delhi Ladli Scheme",
+    "scheme_level": "State",
+    "state": "Delhi",
+    "description": "This scheme aims to empower the girl child by providing financial assistance from birth till completion of education.",
+    "min_age": 0,
+    "max_age": 18,
+    "education_level": "School",
+    "eligible_gender": ["Female"],
+    "benefits": "Up to ₹1,10,000 in phased deposits",
+    "how_to_apply": "Apply through Delhi government portal",
+    "documents_required": [
+      "Birth Certificate",
+      "Residence Proof",
+      "Aadhaar Card"
+    ],
+    "last_date": "2026-12-31"
+  },
+  {
+    "scheme_id": "SCH023",
+    "scheme_name": "Rajasthan Mukhyamantri Yuva Sambal Yojana",
+    "scheme_level": "State",
+    "state": "Rajasthan",
+    "description": "This scheme provides unemployment allowance and skill training to educated youth to enhance employability.",
+    "min_age": 21,
+    "max_age": 35,
+    "education_level": "Graduate",
+    "eligible_gender": ["Male", "Female", "Other"],
+    "benefits": "Monthly allowance up to ₹4,000",
+    "how_to_apply": "Apply through Rajasthan employment portal",
+    "documents_required": [
+      "Educational Certificate",
+      "Unemployment Certificate",
+      "Aadhaar Card"
+    ],
+    "last_date": "2026-12-31"
+  },
+  {
+    "scheme_id": "SCH024",
+    "scheme_name": "Karnataka Vidyasiri Scholarship",
+    "scheme_level": "State",
+    "state": "Karnataka",
+    "description": "Vidyasiri provides food and accommodation assistance to students from backward communities pursuing higher education.",
+    "min_age": 18,
+    "max_age": 30,
+    "education_level": "Undergraduate",
+    "eligible_gender": ["Male", "Female", "Other"],
+    "benefits": "Free hostel and food facilities",
+    "how_to_apply": "Apply through Karnataka SSP portal",
+    "documents_required": [
+      "Caste Certificate",
+      "Income Certificate",
+      "College ID"
+    ],
+    "last_date": "2026-01-31"
+  },
+  {
+    "scheme_id": "SCH025",
+    "scheme_name": "Telangana Aasara Pension Scheme",
+    "scheme_level": "State",
+    "state": "Telangana",
+    "description": "This welfare scheme provides pension support to elderly, widows, and disabled persons from poor households.",
+    "min_age": 57,
+    "max_age": 100,
+    "education_level": "Any",
+    "eligible_gender": ["Male", "Female", "Other"],
+    "benefits": "Monthly pension support",
+    "how_to_apply": "Apply through local municipal or gram panchayat office",
+    "documents_required": [
+      "Age Proof",
+      "Income Certificate",
+      "Aadhaar Card"
+    ],
+    "last_date": "2026-12-31"
+  },
+  {
+    "scheme_id": "SCH026",
+    "scheme_name": "Odisha KALIA Youth Entrepreneurship Scheme",
+    "scheme_level": "State",
+    "state": "Odisha",
+    "description": "This scheme encourages rural youth to take up agricultural and allied entrepreneurship activities.",
+    "min_age": 18,
+    "max_age": 40,
+    "education_level": "Any",
+    "eligible_gender": ["Male", "Female", "Other"],
+    "benefits": "Financial assistance and training support",
+    "how_to_apply": "Apply through Odisha government portal",
+    "documents_required": [
+      "Residence Proof",
+      "Aadhaar Card",
+      "Bank Account Details"
+    ],
+    "last_date": "2026-03-31"
+  },
+  {
+    "scheme_id": "SCH027",
+    "scheme_name": "Kerala Higher Education Scholarship",
+    "scheme_level": "State",
+    "state": "Kerala",
+    "description": "This scholarship supports students from economically weaker sections pursuing undergraduate and postgraduate education in Kerala.",
+    "min_age": 18,
+    "max_age": 28,
+    "education_level": "Undergraduate",
+    "eligible_gender": ["Male", "Female", "Other"],
+    "benefits": "₹25,000 per year",
+    "how_to_apply": "Apply through Kerala scholarship portal",
+    "documents_required": [
+      "Income Certificate",
+      "Marksheet",
+      "Aadhaar Card"
+    ],
+    "last_date": "2026-02-20"
+  },
+  {
+    "scheme_id": "SCH028",
+    "scheme_name": "Bihar Student Credit Card Scheme",
+    "scheme_level": "State",
+    "state": "Bihar",
+    "description": "This scheme provides education loans at low interest rates to students pursuing higher education.",
+    "min_age": 18,
+    "max_age": 25,
+    "education_level": "Undergraduate",
+    "eligible_gender": ["Male", "Female", "Other"],
+    "benefits": "Education loan up to ₹4 lakh",
+    "how_to_apply": "Apply through Bihar government portal",
+    "documents_required": [
+      "Admission Proof",
+      "Aadhaar Card",
+      "Residence Certificate"
+    ],
+    "last_date": "2026-12-31"
+  },
+  {
+    "scheme_id": "SCH029",
+    "scheme_name": "Punjab Ashirwad Scheme",
+    "scheme_level": "State",
+    "state": "Punjab",
+    "description": "This scheme provides financial assistance for the marriage of daughters from economically weaker families.",
+    "min_age": 18,
+    "max_age": 40,
+    "education_level": "Any",
+    "eligible_gender": ["Female"],
+    "benefits": "One-time financial assistance",
+    "how_to_apply": "Apply through Punjab social welfare portal",
+    "documents_required": [
+      "Income Certificate",
+      "Marriage Proof",
+      "Aadhaar Card"
+    ],
+    "last_date": "2026-12-31"
+  },
+  {
+    "scheme_id": "SCH030",
+    "scheme_name": "Haryana Saksham Yuva Scheme",
+    "scheme_level": "State",
+    "state": "Haryana",
+    "description": "This scheme provides unemployment allowance and honorarium to educated youth while they gain work experience.",
+    "min_age": 18,
+    "max_age": 35,
+    "education_level": "Graduate",
+    "eligible_gender": ["Male", "Female", "Other"],
+    "benefits": "Monthly allowance up to ₹9,000",
+    "how_to_apply": "Apply through Haryana employment portal",
+    "documents_required": [
+      "Educational Certificate",
+      "Unemployment Certificate",
+      "Aadhaar Card"
+    ],
+    "last_date": "2026-12-31"
+  },
+  {
+    "scheme_id": "SCH031",
+    "scheme_name": "Assam Minority Girls Scholarship",
+    "scheme_level": "State",
+    "state": "Assam",
+    "description": "This scheme encourages education among minority girl students by providing financial assistance.",
+    "min_age": 15,
+    "max_age": 25,
+    "education_level": "Higher Secondary",
+    "eligible_gender": ["Female"],
+    "benefits": "₹20,000 per year",
+    "how_to_apply": "Apply through Assam scholarship portal",
+    "documents_required": [
+      "Minority Certificate",
+      "Income Certificate",
+      "Aadhaar Card"
+    ],
+    "last_date": "2026-02-10"
+  },
+  {
+    "scheme_id": "SCH032",
+    "scheme_name": "Chhattisgarh Godhan Nyay Yojana",
+    "scheme_level": "State",
+    "state": "Chhattisgarh",
+    "description": "This scheme supports rural livelihoods by procuring cattle dung from farmers and landless laborers.",
+    "min_age": 18,
+    "max_age": 65,
+    "education_level": "Any",
+    "eligible_gender": ["Male", "Female", "Other"],
+    "benefits": "Income support through dung procurement",
+    "how_to_apply": "Register through local authorities",
+    "documents_required": [
+      "Residence Proof",
+      "Aadhaar Card"
+    ],
+    "last_date": "2026-12-31"
+  },
+  {
+    "scheme_id": "SCH033",
+    "scheme_name": "Jharkhand Mukhyamantri Medhavriti Yojana",
+    "scheme_level": "State",
+    "state": "Jharkhand",
+    "description": "This scheme provides financial assistance to meritorious students from economically weaker sections.",
+    "min_age": 16,
+    "max_age": 25,
+    "education_level": "Undergraduate",
+    "eligible_gender": ["Male", "Female", "Other"],
+    "benefits": "Annual scholarship assistance",
+    "how_to_apply": "Apply through Jharkhand education portal",
+    "documents_required": [
+      "Income Certificate",
+      "Marksheet",
+      "Aadhaar Card"
+    ],
+    "last_date": "2026-02-25"
+  },
+  {
+    "scheme_id": "SCH034",
+    "scheme_name": "Goa Dayanand Social Security Scheme",
+    "scheme_level": "State",
+    "state": "Goa",
+    "description": "This welfare scheme provides financial assistance to senior citizens and disabled persons in Goa.",
+    "min_age": 60,
+    "max_age": 100,
+    "education_level": "Any",
+    "eligible_gender": ["Male", "Female", "Other"],
+    "benefits": "Monthly pension assistance",
+    "how_to_apply": "Apply through Goa social welfare department",
+    "documents_required": [
+      "Age Proof",
+      "Residence Certificate",
+      "Aadhaar Card"
+    ],
+    "last_date": "2026-12-31"
+  },
+  {
+    "scheme_id": "SCH035",
+    "scheme_name": "Himachal Pradesh Swaran Jayanti Middle Merit Scholarship",
+    "scheme_level": "State",
+    "state": "Himachal Pradesh",
+    "description": "This scholarship rewards meritorious students at the middle school level to encourage continued education.",
+    "min_age": 11,
+    "max_age": 15,
+    "education_level": "School",
+    "eligible_gender": ["Male", "Female", "Other"],
+    "benefits": "Annual merit-based scholarship",
+    "how_to_apply": "Apply through Himachal Pradesh education portal",
+    "documents_required": [
+      "School Certificate",
+      "Marksheet",
+      "Aadhaar Card"
+    ],
+    "last_date": "2026-01-20"
+  }
+]
+
