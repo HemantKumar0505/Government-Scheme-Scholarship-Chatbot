@@ -1,7 +1,7 @@
 from transformers import pipeline
 
 text_generator = pipeline(
-    "text2text-generation",
+    "text-generation",
     model="google/flan-t5-base"
 )
 
