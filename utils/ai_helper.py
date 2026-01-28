@@ -22,8 +22,13 @@
 from transformers import pipeline
 
 text_generator = pipeline(
+<<<<<<< HEAD
     "text-generation",   # ✅ FIX
     model="google/flan-t5-small"  # ✅ recommended for Streamlit Cloud
+=======
+    "text2text-generation",
+    model="google/flan-t5-base"
+>>>>>>> 53ab58317cb633edd230030c1561dbe31460c7a3
 )
 
 def generate_ai_response(prompt):
