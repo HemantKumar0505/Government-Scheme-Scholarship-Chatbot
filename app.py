@@ -612,7 +612,7 @@ from utils.ai_helper import generate_ai_response
 # Page configuration
 # --------------------------------------------------
 st.set_page_config(
-    page_title="Government Scheme & Scholarship Chatbot",
+    page_title="Government Scheme Chatbot",
     page_icon="🏛️",
     layout="wide"
 )
