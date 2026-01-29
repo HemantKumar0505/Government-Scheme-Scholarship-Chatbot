@@ -871,8 +871,10 @@ Scheme description:
             reply = f"Eligible age range: {s['min_age']} to {s['max_age']} years."
 
         elif "apply" in text or "portal" in text:
-            reply = f"{s['how_to_apply']}"
-
+            reply = (
+                f"{s['how_to_apply']}\n\n"
+                f"🔗 Official portal: {s.get('application_url', 'Please check official government website')}"
+            )
         else:
             prompt = f"""
 Answer the user's question clearly and politely.
